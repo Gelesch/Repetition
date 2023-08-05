@@ -1,0 +1,15 @@
+C:\Users\shele\source\repos\Repetition\TestStaticMethods\bin\Debug\net7.0\TestStaticMethods.exe
+C:\Users\shele\source\repos\Repetition\TestStaticMethods\bin\Debug\net7.0\TestStaticMethods.deps.json
+C:\Users\shele\source\repos\Repetition\TestStaticMethods\bin\Debug\net7.0\TestStaticMethods.runtimeconfig.json
+C:\Users\shele\source\repos\Repetition\TestStaticMethods\bin\Debug\net7.0\TestStaticMethods.dll
+C:\Users\shele\source\repos\Repetition\TestStaticMethods\bin\Debug\net7.0\TestStaticMethods.pdb
+C:\Users\shele\source\repos\Repetition\TestStaticMethods\obj\Debug\net7.0\TestStaticMethods.csproj.AssemblyReference.cache
+C:\Users\shele\source\repos\Repetition\TestStaticMethods\obj\Debug\net7.0\TestStaticMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shele\source\repos\Repetition\TestStaticMethods\obj\Debug\net7.0\TestStaticMethods.AssemblyInfoInputs.cache
+C:\Users\shele\source\repos\Repetition\TestStaticMethods\obj\Debug\net7.0\TestStaticMethods.AssemblyInfo.cs
+C:\Users\shele\source\repos\Repetition\TestStaticMethods\obj\Debug\net7.0\TestStaticMethods.csproj.CoreCompileInputs.cache
+C:\Users\shele\source\repos\Repetition\TestStaticMethods\obj\Debug\net7.0\TestStaticMethods.dll
+C:\Users\shele\source\repos\Repetition\TestStaticMethods\obj\Debug\net7.0\refint\TestStaticMethods.dll
+C:\Users\shele\source\repos\Repetition\TestStaticMethods\obj\Debug\net7.0\TestStaticMethods.pdb
+C:\Users\shele\source\repos\Repetition\TestStaticMethods\obj\Debug\net7.0\TestStaticMethods.genruntimeconfig.cache
+C:\Users\shele\source\repos\Repetition\TestStaticMethods\obj\Debug\net7.0\ref\TestStaticMethods.dll

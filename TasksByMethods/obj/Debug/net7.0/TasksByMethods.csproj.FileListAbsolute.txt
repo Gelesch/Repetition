@@ -1,0 +1,15 @@
+C:\Users\shele\source\repos\Repetition\TasksByMethods\bin\Debug\net7.0\TasksByMethods.exe
+C:\Users\shele\source\repos\Repetition\TasksByMethods\bin\Debug\net7.0\TasksByMethods.deps.json
+C:\Users\shele\source\repos\Repetition\TasksByMethods\bin\Debug\net7.0\TasksByMethods.runtimeconfig.json
+C:\Users\shele\source\repos\Repetition\TasksByMethods\bin\Debug\net7.0\TasksByMethods.dll
+C:\Users\shele\source\repos\Repetition\TasksByMethods\bin\Debug\net7.0\TasksByMethods.pdb
+C:\Users\shele\source\repos\Repetition\TasksByMethods\obj\Debug\net7.0\TasksByMethods.csproj.AssemblyReference.cache
+C:\Users\shele\source\repos\Repetition\TasksByMethods\obj\Debug\net7.0\TasksByMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shele\source\repos\Repetition\TasksByMethods\obj\Debug\net7.0\TasksByMethods.AssemblyInfoInputs.cache
+C:\Users\shele\source\repos\Repetition\TasksByMethods\obj\Debug\net7.0\TasksByMethods.AssemblyInfo.cs
+C:\Users\shele\source\repos\Repetition\TasksByMethods\obj\Debug\net7.0\TasksByMethods.csproj.CoreCompileInputs.cache
+C:\Users\shele\source\repos\Repetition\TasksByMethods\obj\Debug\net7.0\TasksByMethods.dll
+C:\Users\shele\source\repos\Repetition\TasksByMethods\obj\Debug\net7.0\refint\TasksByMethods.dll
+C:\Users\shele\source\repos\Repetition\TasksByMethods\obj\Debug\net7.0\TasksByMethods.pdb
+C:\Users\shele\source\repos\Repetition\TasksByMethods\obj\Debug\net7.0\TasksByMethods.genruntimeconfig.cache
+C:\Users\shele\source\repos\Repetition\TasksByMethods\obj\Debug\net7.0\ref\TasksByMethods.dll

@@ -1,0 +1,15 @@
+C:\Users\shele\source\repos\Repetition\SearchFOrUniqueWords\bin\Debug\net7.0\SearchFOrUniqueWords.exe
+C:\Users\shele\source\repos\Repetition\SearchFOrUniqueWords\bin\Debug\net7.0\SearchFOrUniqueWords.deps.json
+C:\Users\shele\source\repos\Repetition\SearchFOrUniqueWords\bin\Debug\net7.0\SearchFOrUniqueWords.runtimeconfig.json
+C:\Users\shele\source\repos\Repetition\SearchFOrUniqueWords\bin\Debug\net7.0\SearchFOrUniqueWords.dll
+C:\Users\shele\source\repos\Repetition\SearchFOrUniqueWords\bin\Debug\net7.0\SearchFOrUniqueWords.pdb
+C:\Users\shele\source\repos\Repetition\SearchFOrUniqueWords\obj\Debug\net7.0\SearchFOrUniqueWords.csproj.AssemblyReference.cache
+C:\Users\shele\source\repos\Repetition\SearchFOrUniqueWords\obj\Debug\net7.0\SearchFOrUniqueWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shele\source\repos\Repetition\SearchFOrUniqueWords\obj\Debug\net7.0\SearchFOrUniqueWords.AssemblyInfoInputs.cache
+C:\Users\shele\source\repos\Repetition\SearchFOrUniqueWords\obj\Debug\net7.0\SearchFOrUniqueWords.AssemblyInfo.cs
+C:\Users\shele\source\repos\Repetition\SearchFOrUniqueWords\obj\Debug\net7.0\SearchFOrUniqueWords.csproj.CoreCompileInputs.cache
+C:\Users\shele\source\repos\Repetition\SearchFOrUniqueWords\obj\Debug\net7.0\SearchFOrUniqueWords.dll
+C:\Users\shele\source\repos\Repetition\SearchFOrUniqueWords\obj\Debug\net7.0\refint\SearchFOrUniqueWords.dll
+C:\Users\shele\source\repos\Repetition\SearchFOrUniqueWords\obj\Debug\net7.0\SearchFOrUniqueWords.pdb
+C:\Users\shele\source\repos\Repetition\SearchFOrUniqueWords\obj\Debug\net7.0\SearchFOrUniqueWords.genruntimeconfig.cache
+C:\Users\shele\source\repos\Repetition\SearchFOrUniqueWords\obj\Debug\net7.0\ref\SearchFOrUniqueWords.dll

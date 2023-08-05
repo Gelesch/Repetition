@@ -1,0 +1,15 @@
+C:\Users\shele\source\repos\Repetition\Repetition\bin\Debug\net6.0\Repetition.exe
+C:\Users\shele\source\repos\Repetition\Repetition\bin\Debug\net6.0\Repetition.deps.json
+C:\Users\shele\source\repos\Repetition\Repetition\bin\Debug\net6.0\Repetition.runtimeconfig.json
+C:\Users\shele\source\repos\Repetition\Repetition\bin\Debug\net6.0\Repetition.dll
+C:\Users\shele\source\repos\Repetition\Repetition\bin\Debug\net6.0\Repetition.pdb
+C:\Users\shele\source\repos\Repetition\Repetition\obj\Debug\net6.0\Repetition.csproj.AssemblyReference.cache
+C:\Users\shele\source\repos\Repetition\Repetition\obj\Debug\net6.0\Repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shele\source\repos\Repetition\Repetition\obj\Debug\net6.0\Repetition.AssemblyInfoInputs.cache
+C:\Users\shele\source\repos\Repetition\Repetition\obj\Debug\net6.0\Repetition.AssemblyInfo.cs
+C:\Users\shele\source\repos\Repetition\Repetition\obj\Debug\net6.0\Repetition.csproj.CoreCompileInputs.cache
+C:\Users\shele\source\repos\Repetition\Repetition\obj\Debug\net6.0\Repetition.dll
+C:\Users\shele\source\repos\Repetition\Repetition\obj\Debug\net6.0\refint\Repetition.dll
+C:\Users\shele\source\repos\Repetition\Repetition\obj\Debug\net6.0\Repetition.pdb
+C:\Users\shele\source\repos\Repetition\Repetition\obj\Debug\net6.0\Repetition.genruntimeconfig.cache
+C:\Users\shele\source\repos\Repetition\Repetition\obj\Debug\net6.0\ref\Repetition.dll

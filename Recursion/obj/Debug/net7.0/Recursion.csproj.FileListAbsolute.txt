@@ -1,0 +1,15 @@
+C:\Users\shele\source\repos\Repetition\Recursion\bin\Debug\net7.0\Recursion.exe
+C:\Users\shele\source\repos\Repetition\Recursion\bin\Debug\net7.0\Recursion.deps.json
+C:\Users\shele\source\repos\Repetition\Recursion\bin\Debug\net7.0\Recursion.runtimeconfig.json
+C:\Users\shele\source\repos\Repetition\Recursion\bin\Debug\net7.0\Recursion.dll
+C:\Users\shele\source\repos\Repetition\Recursion\bin\Debug\net7.0\Recursion.pdb
+C:\Users\shele\source\repos\Repetition\Recursion\obj\Debug\net7.0\Recursion.csproj.AssemblyReference.cache
+C:\Users\shele\source\repos\Repetition\Recursion\obj\Debug\net7.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shele\source\repos\Repetition\Recursion\obj\Debug\net7.0\Recursion.AssemblyInfoInputs.cache
+C:\Users\shele\source\repos\Repetition\Recursion\obj\Debug\net7.0\Recursion.AssemblyInfo.cs
+C:\Users\shele\source\repos\Repetition\Recursion\obj\Debug\net7.0\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\shele\source\repos\Repetition\Recursion\obj\Debug\net7.0\Recursion.dll
+C:\Users\shele\source\repos\Repetition\Recursion\obj\Debug\net7.0\refint\Recursion.dll
+C:\Users\shele\source\repos\Repetition\Recursion\obj\Debug\net7.0\Recursion.pdb
+C:\Users\shele\source\repos\Repetition\Recursion\obj\Debug\net7.0\Recursion.genruntimeconfig.cache
+C:\Users\shele\source\repos\Repetition\Recursion\obj\Debug\net7.0\ref\Recursion.dll

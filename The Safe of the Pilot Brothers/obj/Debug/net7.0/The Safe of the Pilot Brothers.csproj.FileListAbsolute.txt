@@ -1,0 +1,15 @@
+C:\Users\shele\source\repos\Repetition\The Safe of the Pilot Brothers\bin\Debug\net7.0\The Safe of the Pilot Brothers.exe
+C:\Users\shele\source\repos\Repetition\The Safe of the Pilot Brothers\bin\Debug\net7.0\The Safe of the Pilot Brothers.deps.json
+C:\Users\shele\source\repos\Repetition\The Safe of the Pilot Brothers\bin\Debug\net7.0\The Safe of the Pilot Brothers.runtimeconfig.json
+C:\Users\shele\source\repos\Repetition\The Safe of the Pilot Brothers\bin\Debug\net7.0\The Safe of the Pilot Brothers.dll
+C:\Users\shele\source\repos\Repetition\The Safe of the Pilot Brothers\bin\Debug\net7.0\The Safe of the Pilot Brothers.pdb
+C:\Users\shele\source\repos\Repetition\The Safe of the Pilot Brothers\obj\Debug\net7.0\The Safe of the Pilot Brothers.csproj.AssemblyReference.cache
+C:\Users\shele\source\repos\Repetition\The Safe of the Pilot Brothers\obj\Debug\net7.0\The Safe of the Pilot Brothers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shele\source\repos\Repetition\The Safe of the Pilot Brothers\obj\Debug\net7.0\The Safe of the Pilot Brothers.AssemblyInfoInputs.cache
+C:\Users\shele\source\repos\Repetition\The Safe of the Pilot Brothers\obj\Debug\net7.0\The Safe of the Pilot Brothers.AssemblyInfo.cs
+C:\Users\shele\source\repos\Repetition\The Safe of the Pilot Brothers\obj\Debug\net7.0\The Safe of the Pilot Brothers.csproj.CoreCompileInputs.cache
+C:\Users\shele\source\repos\Repetition\The Safe of the Pilot Brothers\obj\Debug\net7.0\The Safe of the Pilot Brothers.dll
+C:\Users\shele\source\repos\Repetition\The Safe of the Pilot Brothers\obj\Debug\net7.0\refint\The Safe of the Pilot Brothers.dll
+C:\Users\shele\source\repos\Repetition\The Safe of the Pilot Brothers\obj\Debug\net7.0\The Safe of the Pilot Brothers.pdb
+C:\Users\shele\source\repos\Repetition\The Safe of the Pilot Brothers\obj\Debug\net7.0\The Safe of the Pilot Brothers.genruntimeconfig.cache
+C:\Users\shele\source\repos\Repetition\The Safe of the Pilot Brothers\obj\Debug\net7.0\ref\The Safe of the Pilot Brothers.dll

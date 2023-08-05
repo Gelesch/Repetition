@@ -1,0 +1,15 @@
+C:\Users\shele\source\repos\Repetition\SumAB\bin\Debug\net7.0\SumAB.exe
+C:\Users\shele\source\repos\Repetition\SumAB\bin\Debug\net7.0\SumAB.deps.json
+C:\Users\shele\source\repos\Repetition\SumAB\bin\Debug\net7.0\SumAB.runtimeconfig.json
+C:\Users\shele\source\repos\Repetition\SumAB\bin\Debug\net7.0\SumAB.dll
+C:\Users\shele\source\repos\Repetition\SumAB\bin\Debug\net7.0\SumAB.pdb
+C:\Users\shele\source\repos\Repetition\SumAB\obj\Debug\net7.0\SumAB.csproj.AssemblyReference.cache
+C:\Users\shele\source\repos\Repetition\SumAB\obj\Debug\net7.0\SumAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shele\source\repos\Repetition\SumAB\obj\Debug\net7.0\SumAB.AssemblyInfoInputs.cache
+C:\Users\shele\source\repos\Repetition\SumAB\obj\Debug\net7.0\SumAB.AssemblyInfo.cs
+C:\Users\shele\source\repos\Repetition\SumAB\obj\Debug\net7.0\SumAB.csproj.CoreCompileInputs.cache
+C:\Users\shele\source\repos\Repetition\SumAB\obj\Debug\net7.0\SumAB.dll
+C:\Users\shele\source\repos\Repetition\SumAB\obj\Debug\net7.0\refint\SumAB.dll
+C:\Users\shele\source\repos\Repetition\SumAB\obj\Debug\net7.0\SumAB.pdb
+C:\Users\shele\source\repos\Repetition\SumAB\obj\Debug\net7.0\SumAB.genruntimeconfig.cache
+C:\Users\shele\source\repos\Repetition\SumAB\obj\Debug\net7.0\ref\SumAB.dll

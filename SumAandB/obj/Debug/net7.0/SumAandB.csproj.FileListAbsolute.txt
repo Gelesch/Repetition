@@ -1,0 +1,15 @@
+C:\Users\shele\source\repos\Repetition\SumAandB\bin\Debug\net7.0\SumAandB.exe
+C:\Users\shele\source\repos\Repetition\SumAandB\bin\Debug\net7.0\SumAandB.deps.json
+C:\Users\shele\source\repos\Repetition\SumAandB\bin\Debug\net7.0\SumAandB.runtimeconfig.json
+C:\Users\shele\source\repos\Repetition\SumAandB\bin\Debug\net7.0\SumAandB.dll
+C:\Users\shele\source\repos\Repetition\SumAandB\bin\Debug\net7.0\SumAandB.pdb
+C:\Users\shele\source\repos\Repetition\SumAandB\obj\Debug\net7.0\SumAandB.csproj.AssemblyReference.cache
+C:\Users\shele\source\repos\Repetition\SumAandB\obj\Debug\net7.0\SumAandB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shele\source\repos\Repetition\SumAandB\obj\Debug\net7.0\SumAandB.AssemblyInfoInputs.cache
+C:\Users\shele\source\repos\Repetition\SumAandB\obj\Debug\net7.0\SumAandB.AssemblyInfo.cs
+C:\Users\shele\source\repos\Repetition\SumAandB\obj\Debug\net7.0\SumAandB.csproj.CoreCompileInputs.cache
+C:\Users\shele\source\repos\Repetition\SumAandB\obj\Debug\net7.0\SumAandB.dll
+C:\Users\shele\source\repos\Repetition\SumAandB\obj\Debug\net7.0\refint\SumAandB.dll
+C:\Users\shele\source\repos\Repetition\SumAandB\obj\Debug\net7.0\SumAandB.pdb
+C:\Users\shele\source\repos\Repetition\SumAandB\obj\Debug\net7.0\SumAandB.genruntimeconfig.cache
+C:\Users\shele\source\repos\Repetition\SumAandB\obj\Debug\net7.0\ref\SumAandB.dll

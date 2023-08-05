@@ -1,0 +1,15 @@
+C:\Users\shele\source\repos\Repetition\Wallet\bin\Debug\net7.0\Wallet.exe
+C:\Users\shele\source\repos\Repetition\Wallet\bin\Debug\net7.0\Wallet.deps.json
+C:\Users\shele\source\repos\Repetition\Wallet\bin\Debug\net7.0\Wallet.runtimeconfig.json
+C:\Users\shele\source\repos\Repetition\Wallet\bin\Debug\net7.0\Wallet.dll
+C:\Users\shele\source\repos\Repetition\Wallet\bin\Debug\net7.0\Wallet.pdb
+C:\Users\shele\source\repos\Repetition\Wallet\obj\Debug\net7.0\Wallet.csproj.AssemblyReference.cache
+C:\Users\shele\source\repos\Repetition\Wallet\obj\Debug\net7.0\Wallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shele\source\repos\Repetition\Wallet\obj\Debug\net7.0\Wallet.AssemblyInfoInputs.cache
+C:\Users\shele\source\repos\Repetition\Wallet\obj\Debug\net7.0\Wallet.AssemblyInfo.cs
+C:\Users\shele\source\repos\Repetition\Wallet\obj\Debug\net7.0\Wallet.csproj.CoreCompileInputs.cache
+C:\Users\shele\source\repos\Repetition\Wallet\obj\Debug\net7.0\Wallet.dll
+C:\Users\shele\source\repos\Repetition\Wallet\obj\Debug\net7.0\refint\Wallet.dll
+C:\Users\shele\source\repos\Repetition\Wallet\obj\Debug\net7.0\Wallet.pdb
+C:\Users\shele\source\repos\Repetition\Wallet\obj\Debug\net7.0\Wallet.genruntimeconfig.cache
+C:\Users\shele\source\repos\Repetition\Wallet\obj\Debug\net7.0\ref\Wallet.dll
