@@ -1,0 +1,15 @@
+C:\Users\shele\source\repos\Repetition\Lamp\bin\Debug\net7.0\Lamp.exe
+C:\Users\shele\source\repos\Repetition\Lamp\bin\Debug\net7.0\Lamp.deps.json
+C:\Users\shele\source\repos\Repetition\Lamp\bin\Debug\net7.0\Lamp.runtimeconfig.json
+C:\Users\shele\source\repos\Repetition\Lamp\bin\Debug\net7.0\Lamp.dll
+C:\Users\shele\source\repos\Repetition\Lamp\bin\Debug\net7.0\Lamp.pdb
+C:\Users\shele\source\repos\Repetition\Lamp\obj\Debug\net7.0\Lamp.csproj.AssemblyReference.cache
+C:\Users\shele\source\repos\Repetition\Lamp\obj\Debug\net7.0\Lamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shele\source\repos\Repetition\Lamp\obj\Debug\net7.0\Lamp.AssemblyInfoInputs.cache
+C:\Users\shele\source\repos\Repetition\Lamp\obj\Debug\net7.0\Lamp.AssemblyInfo.cs
+C:\Users\shele\source\repos\Repetition\Lamp\obj\Debug\net7.0\Lamp.csproj.CoreCompileInputs.cache
+C:\Users\shele\source\repos\Repetition\Lamp\obj\Debug\net7.0\Lamp.dll
+C:\Users\shele\source\repos\Repetition\Lamp\obj\Debug\net7.0\refint\Lamp.dll
+C:\Users\shele\source\repos\Repetition\Lamp\obj\Debug\net7.0\Lamp.pdb
+C:\Users\shele\source\repos\Repetition\Lamp\obj\Debug\net7.0\Lamp.genruntimeconfig.cache
+C:\Users\shele\source\repos\Repetition\Lamp\obj\Debug\net7.0\ref\Lamp.dll

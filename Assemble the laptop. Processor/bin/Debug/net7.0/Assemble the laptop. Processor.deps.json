@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Assemble the laptop. Processor/1.0.0": {
+        "runtime": {
+          "Assemble the laptop. Processor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assemble the laptop. Processor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

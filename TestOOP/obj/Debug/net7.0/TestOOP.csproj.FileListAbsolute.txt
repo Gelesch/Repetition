@@ -1,0 +1,15 @@
+C:\Users\shele\source\repos\Repetition\TestOOP\bin\Debug\net7.0\TestOOP.exe
+C:\Users\shele\source\repos\Repetition\TestOOP\bin\Debug\net7.0\TestOOP.deps.json
+C:\Users\shele\source\repos\Repetition\TestOOP\bin\Debug\net7.0\TestOOP.runtimeconfig.json
+C:\Users\shele\source\repos\Repetition\TestOOP\bin\Debug\net7.0\TestOOP.dll
+C:\Users\shele\source\repos\Repetition\TestOOP\bin\Debug\net7.0\TestOOP.pdb
+C:\Users\shele\source\repos\Repetition\TestOOP\obj\Debug\net7.0\TestOOP.csproj.AssemblyReference.cache
+C:\Users\shele\source\repos\Repetition\TestOOP\obj\Debug\net7.0\TestOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shele\source\repos\Repetition\TestOOP\obj\Debug\net7.0\TestOOP.AssemblyInfoInputs.cache
+C:\Users\shele\source\repos\Repetition\TestOOP\obj\Debug\net7.0\TestOOP.AssemblyInfo.cs
+C:\Users\shele\source\repos\Repetition\TestOOP\obj\Debug\net7.0\TestOOP.csproj.CoreCompileInputs.cache
+C:\Users\shele\source\repos\Repetition\TestOOP\obj\Debug\net7.0\TestOOP.dll
+C:\Users\shele\source\repos\Repetition\TestOOP\obj\Debug\net7.0\refint\TestOOP.dll
+C:\Users\shele\source\repos\Repetition\TestOOP\obj\Debug\net7.0\TestOOP.pdb
+C:\Users\shele\source\repos\Repetition\TestOOP\obj\Debug\net7.0\TestOOP.genruntimeconfig.cache
+C:\Users\shele\source\repos\Repetition\TestOOP\obj\Debug\net7.0\ref\TestOOP.dll

@@ -1,0 +1,15 @@
+C:\Users\shele\source\repos\Repetition\What is in the laptop\bin\Debug\net7.0\What is in the laptop.exe
+C:\Users\shele\source\repos\Repetition\What is in the laptop\bin\Debug\net7.0\What is in the laptop.deps.json
+C:\Users\shele\source\repos\Repetition\What is in the laptop\bin\Debug\net7.0\What is in the laptop.runtimeconfig.json
+C:\Users\shele\source\repos\Repetition\What is in the laptop\bin\Debug\net7.0\What is in the laptop.dll
+C:\Users\shele\source\repos\Repetition\What is in the laptop\bin\Debug\net7.0\What is in the laptop.pdb
+C:\Users\shele\source\repos\Repetition\What is in the laptop\obj\Debug\net7.0\What is in the laptop.csproj.AssemblyReference.cache
+C:\Users\shele\source\repos\Repetition\What is in the laptop\obj\Debug\net7.0\What is in the laptop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shele\source\repos\Repetition\What is in the laptop\obj\Debug\net7.0\What is in the laptop.AssemblyInfoInputs.cache
+C:\Users\shele\source\repos\Repetition\What is in the laptop\obj\Debug\net7.0\What is in the laptop.AssemblyInfo.cs
+C:\Users\shele\source\repos\Repetition\What is in the laptop\obj\Debug\net7.0\What is in the laptop.csproj.CoreCompileInputs.cache
+C:\Users\shele\source\repos\Repetition\What is in the laptop\obj\Debug\net7.0\What is in the laptop.dll
+C:\Users\shele\source\repos\Repetition\What is in the laptop\obj\Debug\net7.0\refint\What is in the laptop.dll
+C:\Users\shele\source\repos\Repetition\What is in the laptop\obj\Debug\net7.0\What is in the laptop.pdb
+C:\Users\shele\source\repos\Repetition\What is in the laptop\obj\Debug\net7.0\What is in the laptop.genruntimeconfig.cache
+C:\Users\shele\source\repos\Repetition\What is in the laptop\obj\Debug\net7.0\ref\What is in the laptop.dll

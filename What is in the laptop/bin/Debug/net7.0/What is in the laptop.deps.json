@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "What is in the laptop/1.0.0": {
+        "runtime": {
+          "What is in the laptop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "What is in the laptop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

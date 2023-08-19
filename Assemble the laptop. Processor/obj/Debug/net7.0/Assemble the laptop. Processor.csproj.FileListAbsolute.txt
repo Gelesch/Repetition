@@ -1,0 +1,15 @@
+C:\Users\shele\source\repos\Repetition\Assemble the laptop. Processor\bin\Debug\net7.0\Assemble the laptop. Processor.exe
+C:\Users\shele\source\repos\Repetition\Assemble the laptop. Processor\bin\Debug\net7.0\Assemble the laptop. Processor.deps.json
+C:\Users\shele\source\repos\Repetition\Assemble the laptop. Processor\bin\Debug\net7.0\Assemble the laptop. Processor.runtimeconfig.json
+C:\Users\shele\source\repos\Repetition\Assemble the laptop. Processor\bin\Debug\net7.0\Assemble the laptop. Processor.dll
+C:\Users\shele\source\repos\Repetition\Assemble the laptop. Processor\bin\Debug\net7.0\Assemble the laptop. Processor.pdb
+C:\Users\shele\source\repos\Repetition\Assemble the laptop. Processor\obj\Debug\net7.0\Assemble the laptop. Processor.csproj.AssemblyReference.cache
+C:\Users\shele\source\repos\Repetition\Assemble the laptop. Processor\obj\Debug\net7.0\Assemble the laptop. Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shele\source\repos\Repetition\Assemble the laptop. Processor\obj\Debug\net7.0\Assemble the laptop. Processor.AssemblyInfoInputs.cache
+C:\Users\shele\source\repos\Repetition\Assemble the laptop. Processor\obj\Debug\net7.0\Assemble the laptop. Processor.AssemblyInfo.cs
+C:\Users\shele\source\repos\Repetition\Assemble the laptop. Processor\obj\Debug\net7.0\Assemble the laptop. Processor.csproj.CoreCompileInputs.cache
+C:\Users\shele\source\repos\Repetition\Assemble the laptop. Processor\obj\Debug\net7.0\Assemble the laptop. Processor.dll
+C:\Users\shele\source\repos\Repetition\Assemble the laptop. Processor\obj\Debug\net7.0\refint\Assemble the laptop. Processor.dll
+C:\Users\shele\source\repos\Repetition\Assemble the laptop. Processor\obj\Debug\net7.0\Assemble the laptop. Processor.pdb
+C:\Users\shele\source\repos\Repetition\Assemble the laptop. Processor\obj\Debug\net7.0\Assemble the laptop. Processor.genruntimeconfig.cache
+C:\Users\shele\source\repos\Repetition\Assemble the laptop. Processor\obj\Debug\net7.0\ref\Assemble the laptop. Processor.dll

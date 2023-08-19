@@ -1,0 +1,15 @@
+C:\Users\shele\source\repos\Repetition\Table\bin\Debug\net7.0\Table.exe
+C:\Users\shele\source\repos\Repetition\Table\bin\Debug\net7.0\Table.deps.json
+C:\Users\shele\source\repos\Repetition\Table\bin\Debug\net7.0\Table.runtimeconfig.json
+C:\Users\shele\source\repos\Repetition\Table\bin\Debug\net7.0\Table.dll
+C:\Users\shele\source\repos\Repetition\Table\bin\Debug\net7.0\Table.pdb
+C:\Users\shele\source\repos\Repetition\Table\obj\Debug\net7.0\Table.csproj.AssemblyReference.cache
+C:\Users\shele\source\repos\Repetition\Table\obj\Debug\net7.0\Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shele\source\repos\Repetition\Table\obj\Debug\net7.0\Table.AssemblyInfoInputs.cache
+C:\Users\shele\source\repos\Repetition\Table\obj\Debug\net7.0\Table.AssemblyInfo.cs
+C:\Users\shele\source\repos\Repetition\Table\obj\Debug\net7.0\Table.csproj.CoreCompileInputs.cache
+C:\Users\shele\source\repos\Repetition\Table\obj\Debug\net7.0\Table.dll
+C:\Users\shele\source\repos\Repetition\Table\obj\Debug\net7.0\refint\Table.dll
+C:\Users\shele\source\repos\Repetition\Table\obj\Debug\net7.0\Table.pdb
+C:\Users\shele\source\repos\Repetition\Table\obj\Debug\net7.0\Table.genruntimeconfig.cache
+C:\Users\shele\source\repos\Repetition\Table\obj\Debug\net7.0\ref\Table.dll
