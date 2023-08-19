@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "znI8cQ5WTGT2dRP171DOWV956G13/9PPVCuSayqzw1sjjy7N7OaktcN8g74o65+QN2kT/0aynzLh0RxT7MdWWg==",
+  "dgSpecHash": "6xQx0Vlf74zPJ6nrq8fuPXbPHGsi9OgjjZtOlanwyXubyeMRo8P0F2cesLyQLQU5PJ2nOmGUgEu5PkLshS0HaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\shele\\source\\repos\\Repetition\\Repetition\\Repetition.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\shele\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\shele\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\shele\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\shele\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
