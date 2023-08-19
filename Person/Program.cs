@@ -2,12 +2,27 @@
 
 Console.WriteLine("Hello, World!");
 
-Person vlad = new Person("Vlad", 28, 375291924903);
+Person vlad = new Person("Vlad", 20, 375291924903);
 Person kiril = new Person("Kiril", 28, 375291924903);
 vlad.Call(kiril);
+vlad.PrintInformation();
 
 
-class Person
+
+public static class TaxCalculator
+{
+    public static int GetTaxParcent(Person person)
+    {
+        if (person.Age>=25)
+        {
+            return 20;
+        }
+
+        return 0;
+    }
+}
+
+public class Person
 {
     public string Name;
     public int Age;
@@ -20,9 +35,21 @@ class Person
         Number = number;
     }
 
-    public void Call(Person person)
+    
+    
+    public void Call(Person receiver)
     {
-        Console.WriteLine($"{this.Name} звонит {person.Name}");
-       
+        Console.WriteLine($"Кто звонит {Name} {Number}");
+        Console.WriteLine($"Кому звонят {receiver.Name} {receiver.Number}");
+        
+    }
+    
+    
+    public void PrintInformation()
+    {
+        Console.WriteLine("Имя: "+ Name +", Номер телефона: " +Number);
+        Console.WriteLine("Возраст " + Age);
+        Console.WriteLine("Налогавая ставка: " +TaxCalculator.GetTaxParcent(this));
     }
 }
+

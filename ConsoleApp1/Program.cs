@@ -154,23 +154,140 @@ class Program
 */
 
 
-public static class MyStatistics
-{
-    public static int TotalCountStudents;
-    public static int PassedExam;
+//public static class MyStatistics
+//{
+//    public static int TotalCountStudents;
+//    public static int PassedExam;
+//
+//    public static double GetSuccessfulRate()
+//    {
+//        return PassedExam / TotalCountStudents;
+//    }
+//}
+//
+//class Program
+//{
+//    private static void Main(string[] args)
+//    {
+//        MyStatistics.TotalCountStudents = 10;
+//        MyStatistics.PassedExam = 7;
+//        Console.WriteLine(MyStatistics.GetSuccessfulRate());
+//    }
+//}
 
-    public static double GetSuccessfulRate()
+
+/// <summary>
+/// Прлебажить
+/// </summary>
+//public class Program
+//{
+//    public static void Main()
+//    {
+//        var object1 = new SomeClass();
+//        var object2 = new SomeClass();
+//    
+//        object1.Run();
+//        object2.Run();
+//        object1.Run();
+//    }
+//}
+//
+//    
+//class SomeClass
+//{
+//    public static int s = 1;
+//    public int d = 1;
+//
+//    public void Run()
+//    {
+//        Console.Write(s + " " + d + " ");
+//        s++;
+//        d++;
+//    }	
+//}
+
+
+/*
+ * public class Program
+{
+    public static void Main()
     {
-        return PassedExam / TotalCountStudents;
+        var object1 = new SomeClass();
+        var object2 = new SomeClass();
+    
+        object1.Run();
+        object2.Run();
+        object1.Run();
     }
 }
 
-class Program
+
+class SomeClass
 {
-    private static void Main(string[] args)
+    public static int s = 1;
+    public int d = 1;
+
+    public void Run()
     {
-        MyStatistics.TotalCountStudents = 10;
-        MyStatistics.PassedExam = 7;
-        Console.WriteLine(MyStatistics.GetSuccessfulRate());
+        Console.Write(s + " " + d + " ");
+        s++;
+        d++;
+    }	
+}
+
+ */
+
+/*
+public class Task
+{
+    static void Main(string[] args)
+    {
+        var person1 = new Person("Vika");
+        var person2 = new Person("Petya");
+        person1.Do();
+    }
+}
+
+public class Person
+{
+    public static string Name;
+
+    public Person(string name)
+    {
+        Name = name;
+    }
+
+    public void Do()
+    {
+        Console.WriteLine($"{Name} do something");
+    }
+}
+
+*/
+public class Task
+{
+    static void Main(string[] args)
+    {
+        var persons = new Person[] 
+        { 
+            new Person("Ivan"),
+            new Person("Nikita"),
+            new Person("Danik") 
+        };
+
+        foreach (var person in persons)
+        {
+            Console.Write(person.Name + " ");
+        }
+    }
+}
+
+public class Person
+{
+    public string Name;
+
+    public Person(string name)
+    {
+        Name = name;
     }
 }
